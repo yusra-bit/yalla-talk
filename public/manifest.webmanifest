@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Yalla Talk",
+  "short_name": "Yalla Talk",
+  "description": "A bilingual (English/Arabic) conversation game for friends: direct questions, this or that, and would you rather.",
+  "lang": "en",
+  "dir": "auto",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf7f0",
+  "theme_color": "#fbf7f0",
+  "categories": ["games", "entertainment", "social"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
